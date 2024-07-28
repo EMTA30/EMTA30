@@ -1,25 +1,24 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/EMTA30/EMTA30/blob/main/Eva%20Toledo_QA_Canva.png" width="800"/>
 </div>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+[![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evatoledoa/)
 <div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=EMTA30.EMTA30&color=00cf00" alt=""/>
 <h1>
-  Hola soy Noelia. ¡Encantada de conocerte!
+  Hi there! I am Eva Toledo. Pleased to meet you!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí :
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
+### :woman_technologist: About me :
+I am passionate about technology and enjoy the important work of software quality testing. With over 8 years of experience in the tech industry, I have honed my skills in both manual and automated testing. I love learning new things and exploring new technologies, which keeps me motivated and engaged in my field.  I am also a natural leader, capable of building high-performing teams and mentoring junior engineers. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+* :telescope: Currently, I am studying :blue_book: and practicing :computer: test automation using SQL and Python with Selenium. I am looking for new challenges :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :heartbeat: I am keen on identifying and solving complex problems, ensuring that every piece of software I work on is of the highest quality. Known for my attention to detail, analytical thinking, and ability to stay calm under pressure, I am dedicated to maintaining a high standard of quality in all my projects.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
-
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* :mailbox: Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evatoledoa/)
+* :smiley: I enjoy playing the role of a "software detective." It's like being a tech-savvy Sherlock Holmes, where your mission is to uncover hidden bugs and issues that no one else has spotted, ensuring the final product is as flawless as possible!
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
