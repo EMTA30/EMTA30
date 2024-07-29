@@ -27,11 +27,14 @@ I am passionate about technology and enjoy the important work of software qualit
   </a>
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+ <img decoding="async" src="https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+ <img decoding="async" src="https://img.shields.io/badge/Selenium-FFBE00?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>
   </a>
-
+<img decoding="async" src="https://img.shields.io/badge/Postman-ffA500?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/jira-00008B?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
+  </a>
 </div>
 ---
 
