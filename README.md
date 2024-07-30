@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/EMTA30/EMTA30/blob/main/Eva%20Toledo_QA_Canva.png" width="800"/>
+  <img decoding="async" src="https://github.com/EMTA30/EMTA30/blob/main/Eva Toledo_Github_Banner_1.png" width="800"/>
 </div>
 
 <div id="badges" align="center">
